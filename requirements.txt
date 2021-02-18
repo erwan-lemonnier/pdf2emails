@@ -1,0 +1,7 @@
+python-poppler
+Pillow
+google
+google-auth
+google-auth-oauthlib
+google-cloud-vision
+google-cloud-storage
